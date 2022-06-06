@@ -18,7 +18,7 @@ On a side note, I shall say that I can speak English 🇺🇸, Spanish 🇪🇸,
 
 ### My Projects
 
-| **Project**                    | **Short Description**                                                                | **GitHub ➡️**                                             |
+| **Project**                    | **Short Description**                                                                | **GitHub link**                                           |
 | ------------------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | ✅ LuftMensh                   | 🔴 GUI that perform many work-related automation skills                              | [➡️](https://github.com/lheredias/Luftmensch)             |
 | ✅ Comics Site                 | 🔴 Web App for reading and uploading comics                                          | [➡️](https://github.com/lheredias/comics-site)            |
