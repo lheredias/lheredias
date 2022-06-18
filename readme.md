@@ -8,9 +8,9 @@
 
 I'm familiar with deploying `web apps` ✔️ and `APIs` ✔️ through Django and Ruby on Rails, as well as with building `API clients` ✔️ on Javascript and writing `automation scripts` ✔️ and `graphical user interfaces` ✔️ in Python.
 
-To know more about me and my coding journey 💻, you can take a look at **_[my protfolio blog](https://raulheredia.herokuapp.com)_** 📌
-
 On a side note, I shall say that I can speak English 🇺🇸, Spanish 🇪🇸, French 🇫🇷 _und ein bisschen Deutsch_ 🇩🇪 too. Also, I am quite passionate about running, swimming and, most and foremost, cats 🐱.
+
+To know more about me and my coding journey 💻, you can take a look at **_[my portfolio blog](https://raulheredia.herokuapp.com)_** 📌
 
 #### Tech Skillset:
 
