@@ -22,9 +22,10 @@ To know more about me and my coding journey 💻, you can take a look at **_[my 
 | ------------------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | ✅ LuftMensh                   | 🔴 GUI that perform many work-related automation skills                              | [➡️](https://github.com/lheredias/Luftmensch)             |
 | ✅ Comics Site                 | 🔴 Web App for reading and uploading comics                                          | [➡️](https://github.com/lheredias/comics-site)            |
-| ✅ Manga Rewiew API            | 🔴 API for writing and reading Manga series reviews                                  | [➡️](https://github.com/lheredias/manga-review-API)       |
+| ✅ Manga Rewiew API            | 🔴 API for writing and reading Manga series reviews, built upon Django REST                                  | [➡️](https://github.com/lheredias/manga-review-API)       |
 | ✅ Portfolio Blog              | 🔴 A web app to showcase all my projects                                             | [➡️](https://github.com/lheredias/portfolio-blog)         |
 | ✅ Peru: two years of Covid-19 | 🔴 A short data-based analysis of the impact of the Pandemic in Peru using Geopandas | [➡️](https://github.com/lheredias/covid19-peru-map)       |
 | ✅ Credit Card Payoff          | 🔴 A mathematical and programming approach to answer an interesting question         | [➡️](https://github.com/lheredias/credit-card-payoff)     |
 | ✅ Contactable JS              | 🔴 API web client built upon vanilla Javascript and CSS                              | [➡️](https://github.com/lheredias/contactable-API-client) |
 | ✅ Organizable JS              | 🔴 API web client built upon Javascript and vanilla CSS                              | [➡️](https://github.com/lheredias/organizable)            |
+✅ Homeable-API | 🔴 API for listing and saving real estate built upon Ruby on Rails | [➡️](https://github.com/lheredias/homeable-api)  |
