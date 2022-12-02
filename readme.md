@@ -4,13 +4,7 @@
   <img src="./assets/profile.gif">
 </p>
 
-✌️ I'm Raul, a **_full-stack web developer_** based in Lima, Peru 📍 and versed in Python, Ruby, Javascript and SQL 💫.
-
-I'm familiar with deploying `web apps` ✔️ and `APIs` ✔️ through Django and Ruby on Rails, as well as with building `API clients` ✔️ on Javascript and writing `automation scripts` ✔️ and `graphical user interfaces` ✔️ in Python.
-
-On a side note, I shall say that I can speak English 🇺🇸, Spanish 🇪🇸, French 🇫🇷 _und ein bisschen Deutsch_ 🇩🇪 too. Also, I am quite passionate about running, swimming and, most and foremost, cats 🐱.
-
-To know more about me and my coding journey 💻, you can take a look at **_[my portfolio blog](https://raulheredia.herokuapp.com)_** 📌
+✌️ I'm a **_full-stack web developer_** versed in Python, Ruby, Javascript and SQL 💫.
 
 #### Tech Skillset:
 
